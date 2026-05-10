@@ -4,8 +4,8 @@
 
 
 
-echo "This is a new file created for testing purposes.";
-
+echo "<!DOCTYPE html>
+<html lang='en'>        "
 
 
 
