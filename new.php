@@ -4,8 +4,7 @@
 
 
 
-echo "<!DOCTYPE html>
-<html lang='en'>        "
+echo "new way to do things"
 
 
 
