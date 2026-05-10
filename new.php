@@ -4,7 +4,7 @@
 
 
 
-echo "new way to do things"
+echo "hello world";
 
 
 
